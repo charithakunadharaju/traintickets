@@ -23,6 +23,6 @@ Users can **Buy, Post, Check, and Delete** train ticket bookings or postings via
 ## ▶Run Locally
 ```bash
 git clone https://github.com/charithakunadharaju/traintickets.git
-cd train-ticket-bot
+cd traintickets
 npm install
 node app.js
